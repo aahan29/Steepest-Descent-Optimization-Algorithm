@@ -1,0 +1,35 @@
+Objective Function: Rosenbrock
+Dimensionality: 2
+Initial Point: 1.1 1.1
+Iterations: 100
+Tolerance: 0.10000
+Step Size: 0.00100
+
+Optimization process:
+Iteration 1:
+Objective Function Value: 1.22000
+x-values: 1.10000 1.10000 
+
+Iteration 2:
+Objective Function Value: 0.03005
+x-values: 1.05140 1.12200 
+Current Tolerance: 53.34753
+
+Iteration 3:
+Objective Function Value: 0.00354
+x-values: 1.05826 1.11868 
+Current Tolerance: 7.61826
+
+Iteration 4:
+Objective Function Value: 0.00333
+x-values: 1.05762 1.11892 
+Current Tolerance: 0.68499
+
+Iteration 5:
+Objective Function Value: 0.00332
+x-values: 1.05765 1.11884 
+Current Tolerance: 0.08095
+
+Convergence reached after 5 iterations.
+
+Optimization process completed.

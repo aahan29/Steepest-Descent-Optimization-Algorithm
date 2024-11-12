@@ -1,0 +1,6 @@
+rosenbrock // objective function f
+2 // dimensionality d
+100 // number of iterations k
+0.1 // tolerance epsilon
+0.001 // step size alpha
+1.1 1.1 // initial point x^0
